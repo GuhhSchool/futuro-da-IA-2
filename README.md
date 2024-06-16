@@ -8,6 +8,6 @@ Não se preocupe na hora de fazer as escolhas, pois não há exatamente um certo
 
 > O projeto é uma continuação direta do "Futuro da IA", com novas melhorias e organizações
 
-> Link do fluxograma do projeto
+> Link do fluxograma do projeto: https://www.figma.com/board/vQZleY42gnQ96FLnGc7Cfy/Fluxograma---Futuro-da-IA?node-id=0-1&t=MgKJQZ9L1j5vgFJ9-1
 
 > Link do projeto: https://guhhschool.github.io/futuro-da-IA-2
